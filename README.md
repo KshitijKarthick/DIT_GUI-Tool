@@ -14,8 +14,10 @@
 
 ## Program Execution :
 ```
-  # Windows and Posix OS Compliant.[Requirements: JRE, DIT Repository]
+  # Windows and Posix OS Compliant.[Requirements: JRE, DIT Repository, Bundler, Ruby]
   > git clone https://github.com/KshitijKarthick/DIT
+  > cd DIT
+  > bundle install
   > [Copy the Generated Jar file to /scripts]
   > cd DIT/scripts
   > java -jar Data_Import_Tool.jar
