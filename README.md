@@ -5,7 +5,9 @@
    * Invokes Individual Ruby Scripts to Perform Individual Relation Importing into the Database based on User Choice.
    * Each Ruby Script is Atomic and can be run Independently.
    * Output of each Ruby Script is Displayed on the Output Window in the GUI Tool.
-  
+
+![Image](/img/mainWindow.png "GUI Interface")
+
 ## Program Details :
    * Program is written in Java
    * Invokes individual Ruby Scripts to perform the Selected Choice.
@@ -24,6 +26,16 @@
 
 ```
 
+## Working :
+  * Browse Functionality 
+
+![Image](/img/browse.png "Browse Functionality")
+  * Marks Import
+
+![Image](/img/marks.png "Marks Import")
+  * All Files Import
+
+![Image](/img/all.png "All Import") 
 ## To Do :
   * Add Generic Features for the Data Import Tool.
   * Better Security incorporation in the Application.
